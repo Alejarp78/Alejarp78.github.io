@@ -11,9 +11,12 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 
 ## Título del Proyecto:
 
-<h1 align="center" color="7778c2">Encriptador de Texto propuesto por Alura Latam y ORACLE "ONE OracleNextEducation"</h1>
+<h1 align="center" color="#7778c2">Encriptador de Texto propuesto por Alura Latam y ORACLE "ONE OracleNextEducation"</h1>
 <br>
-<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="270px" align="center" border="blue" border-width="1px"></h1>
+<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="270px" align="center" border="blue" border-width="3px"></h1><br>
+
+<h1 align="center">Canuto-Developer</h1>
+
 
 ## Authors
 
@@ -26,33 +29,29 @@ convertir el texto que se solicita en el primer recuadro en un texto cambiado y 
 esté encriptado. 
 
  Su principal característica es que todas las vocales son cambiadas por palabras, las vocales no deben estar
- acentuadas ni deben contener mayúsculas. Si las vocales poseen acentos o mayúsculas sólo se producirá un 
- alerta que indica el número y las letras que deben ser corregidas.
+acentuadas ni deben contener mayúsculas. Si las vocales poseen acentos o mayúsculas sólo se producirá un 
+alerta que indica el número y las letras que deben ser corregidas.
  
-  Una vez corregidas, con el texto en minúsculas y sin acentos, se introduce el texto en el recuadro solicitado, 
-  luego cambia las vocales por palabras y genera un nuevo texto con las que reemplazaron a las 
-  vocales.
+ Una vez corregidas, con el texto en minúsculas y sin acentos, se introduce el texto en el recuadro solicitado, 
+luego cambia las vocales por palabras y genera un nuevo texto con las que reemplazaron a las vocales.
   
-   Los cambios son los siguientes:
-    a = "ai"
-    e = "enter"
-    i = "imes"
-    o = "ober"
+Los cambios son los siguientes:
+    a = "ai",
+    e = "enter",
+    i = "imes",
+    o = "ober",
     u = "ufat"
     
-    El programa puede ser reutilizado presionando el botón Copiar para pegarlo nuevamente en el primer recuadro, 
-    para proceder a desencriptar, lo que permitirá devolver el texto al código original. 
-    </span>
+ El programa puede ser reutilizado presionando el botón Copiar para pegarlo nuevamente en el primer recuadro, 
+para proceder a desencriptar, lo que permitirá devolver el texto al código original. 
 
+</span>
 
 ### Pre-requisitos 📋
 
-_Estilos compatible en su mayor parte sólo con el navegador Chrome.
-
+_Por los momentos posee estilos compatible en su mayor parte sólo con el navegador Chrome.
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * HTML
 * CSS
@@ -79,10 +78,10 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 <p>Este es el link de mi proyecto Encriptador de Texto en Github Pages: "Alejarp78.github.io"</p>
 <span>Haga Click en: <a href="https://alejarp78.github.io/"><u>Encriptador de Texto</u></a></span>
 
-## Expresiones de Gratitud 🎁
+## Gracias por visitar mi repositorio 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Da las gracias públicamente 🤓.
+* Deja tu opinión abajo 🤓.
 ---
-<span> &copy [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
+<span> © [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
  
