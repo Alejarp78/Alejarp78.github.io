@@ -13,7 +13,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 
 <h1 align="center" color="7778c2">Encriptador de Texto propuesto por Alura Latam y ORACLE "ONE OracleNextEducation"</h1>
 <br>
-<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="150px" align="center" border="blue" border-width="1px"></h1>
+<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="270px" align="center" border="blue" border-width="1px"></h1>
 
 ## Authors
 
@@ -29,7 +29,8 @@ esté encriptado.
  acentuadas ni deben contener mayúsculas. Si las vocales poseen acentos o mayúsculas sólo se producirá un 
  alerta que indica el número y las letras que deben ser corregidas.
  
-  Una vez corregidas, con el texto en minúsculas y sin acentos, se introduce el texto en el recuadro solicitado, luego cambia las vocales por palabras y genera un nuevo texto con las que reemplazaron a las 
+  Una vez corregidas, con el texto en minúsculas y sin acentos, se introduce el texto en el recuadro solicitado, 
+  luego cambia las vocales por palabras y genera un nuevo texto con las que reemplazaron a las 
   vocales.
   
    Los cambios son los siguientes:
@@ -39,7 +40,9 @@ esté encriptado.
     o = "ober"
     u = "ufat"
     
-    El programa puede ser reutilizado presionando el botón Copiar para pegarlo nuevamente en el primer recuadro, para proceder a desencriptar, lo que permitirá devolver el texto al código original. </span>
+    El programa puede ser reutilizado presionando el botón Copiar para pegarlo nuevamente en el primer recuadro, 
+    para proceder a desencriptar, lo que permitirá devolver el texto al código original. 
+    </span>
 
 
 ### Pre-requisitos 📋
@@ -81,5 +84,5 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 * Comenta a otros sobre este proyecto 📢
 * Da las gracias públicamente 🤓.
 ---
-<span>⌨️ con ❤️ por [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
+<span> &copy [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
  
