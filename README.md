@@ -1,4 +1,5 @@
-![Logo](https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)
+<span align="center">![Logo](https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)</span>
+
 
 ## 🚀 Sobre mí
 
@@ -9,11 +10,12 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 
  HTML, CSS, Javascript...
 
-# Título del Proyecto
+## Título del Proyecto:
 
 <h1 align="center" color="7778c2">Encriptador de Texto propuesto por Alura Latam y ORACLE "ONE OracleNextEducation"</h1>
 <br>
-<img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="340px" height="150px" align="center" border="blue">
+<span align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="150px" align="center" border="blue"></span>
+
 
 ## Authors
 
@@ -47,31 +49,6 @@ esté encriptado.
 _Estilos compatible en su mayor parte sólo con el navegador Chrome.
 
 
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
@@ -94,7 +71,7 @@ Versión Final 2.1.
 
 El encriptador de texto posee la identificación de letras no autorizadas como vocales acentuadas y en mayúsculas, además de identificar cononsonantes en mayúsculas. Posee un botón para activar y desactivar el modo oscuro, función muy utilizada hoy día sobre todo en los smartphones.
 
-# Alejarp78.github.io
+## Alejarp78.github.io
 ## Haga click en el Link para ver el resultado y pruebas
 
 <em>Mi repositorio Personal en Github Pages</em>
@@ -107,4 +84,3 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 * Da las gracias públicamente 🤓.
 ---
 ⌨️ con ❤️ por [Alejarp78](https://https://github.com/Alejarp78) 😊
-
