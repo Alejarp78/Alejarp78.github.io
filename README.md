@@ -11,7 +11,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 
 ## Título del Proyecto:
 <h1 align="center" color="#7778c2"><em><b>Encriptador de Texto<b/></em></h1>
-<p align="left" color="#7778c2"> Propuesto por <em><b>Alura Latam y ORACLE</b></em> "ONE OracleNextEducation"</p> 
+<p align="left" color="#7778c2"> Propuesto por <em>Alura Latam y ORACLE</em> "ONE OracleNextEducation"</p> 
 <br>
 <h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center" border="blue" border-width="3px"></h1>
 <h1 align="center">Canuto-Developer</h1>&nbsp  <p> ©Imagen generada por: Jhozmer Ramírez</p>
