@@ -14,7 +14,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <h1 align="center" color="#7778c2">Encriptador de Texto propuesto por Alura Latam y ORACLE "ONE OracleNextEducation"</h1>
 <br>
 <h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="270px" align="center" border="blue" border-width="3px"></h1>
-<h3 align="center">Canuto-Developer</h3> <p> ©Imagen generada por: Jhozmer Ramírez</p>
+<h3 align="center">Canuto-Developer</h3>&nbps  <p> ©Imagen generada por: Jhozmer Ramírez</p>
 
 
 ## Authors
@@ -82,7 +82,8 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 * Comenta a otros sobre este proyecto 📢
 * Deja tu opinión abajo 🤓.
 * Si te gusta sigue mi cuenta. 📌
+
   
 ---
 <span> © [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
- Actualización de Readme del Proyecto Encriptador de Texto, 07 Agosto 2023, versión 1.0
+ 
