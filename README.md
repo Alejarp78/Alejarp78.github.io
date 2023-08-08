@@ -1,5 +1,4 @@
-<span align="center">![Logo](https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)</span>
-
+<h1 align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="420px" height="150px" align="center" border="blue">
 
 ## 🚀 Sobre mí
 
@@ -14,7 +13,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 
 <h1 align="center" color="7778c2">Encriptador de Texto propuesto por Alura Latam y ORACLE "ONE OracleNextEducation"</h1>
 <br>
-<span align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="150px" align="center" border="blue"></span>
+<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="420px" height="250px" align="center" border="blue"></h1>
 
 
 ## Authors
@@ -83,4 +82,4 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 * Comenta a otros sobre este proyecto 📢
 * Da las gracias públicamente 🤓.
 ---
-⌨️ con ❤️ por [Alejarp78](https://https://github.com/Alejarp78) 😊
+⌨️ <p>con</p> ❤️ <p>por</p> [Alejarp78](https://https://github.com/Alejarp78) 😊
