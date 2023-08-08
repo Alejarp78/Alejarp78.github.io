@@ -10,11 +10,10 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
  HTML, CSS, Javascript...
 
 ## Título del Proyecto:
-
-<p align="center" color="#7778c2"><em>Encriptador de Texto</em>,</p> 
- <p></p>propuesto por <em>Alura Latam y ORACLE</em> "ONE OracleNextEducation"</p>
+<h1 align="center" color="#7778c2"><em><b>Encriptador de Texto<b/></em></h1>
+<p align="center" color="#7778c2">propuesto por <em><b>Alura Latam y ORACLE</b></em> "ONE OracleNextEducation"</p> 
 <br>
-<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" width="320px" height="270px" align="center" border="blue" border-width="3px"></h1>
+<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center" border="blue" border-width="3px"></h1>
 <h1 align="center">Canuto-Developer</h1>&nbsp  <p> ©Imagen generada por: Jhozmer Ramírez</p>
 
 
