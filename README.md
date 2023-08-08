@@ -82,6 +82,7 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 * Comenta a otros sobre este proyecto 📢
 * Deja tu opinión abajo 🤓.
 * Si te gusta sigue mi cuenta. 📌
+  
 ---
 <span> © [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
- 
+ Actualización de Readme del Proyecto Encriptador de Texto, 07 Agosto 2023, versión 1.0
