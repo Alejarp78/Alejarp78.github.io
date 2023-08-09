@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Canuto_Desarrollo_Web" width="220px" height="220px" align="center" border="2px solid blue">
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura Latam "Encriptador de Texto".
 
-## 🛠 Habilidades en este proyecto
+## Habilidades en este proyecto
 
  HTML, CSS, Javascript...
 
@@ -16,29 +16,24 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p align="center"><strong>Canuto-Developer</strong></p> 
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
-<p align="left">GitHub: issues: <img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> 
-  forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78">   stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78">   License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
-  
-<p><img src="https://img.shields.io/github/license/Alejarp78?style=social" alt="alejarp78"></p>
-[GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
-https://img.shields.io/github/stars/github
-
+<p align="left">GitHub:  issues: <img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> 
+   forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78">    stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78">    License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
 
 ## Índice :bookmark:
-* [ 🚀 Sobre mí](#Sobre-mí)
-* [ 🛠 Habilidades en este proyecto](#Habilidades-en-este-proyecto)
-* [ Título del Proyecto](#Título-del-Proyecto)
-* [ Descripción 🚀](#Descripción)
-* [ Pre-requisitos 📋](#Pre-requisitos)
-* [ :heavy_check_mark:Construido con 🛠️](#Construido-con)
-* [ Colaboradores 🖇️](#Colaboradores)
-* [ Versionado 📌](#Versionado)
+* [Sobre mí](#Sobre-mí)
+* [Habilidades en este proyecto](#Habilidades-en-este-proyecto)
+* [Título del Proyecto](#Título-del-Proyecto)
+* [Descripción](#Descripción)
+* [Pre-requisitos](#Pre-requisitos)
+* [Construido con](#Construido-con)
+* [Colaboradores](#Colaboradores)
+* [Versionado](#Versionado)
 * [Mejoras](#Mejoras)
-* [ Haga click en el Link para ver la página web](#Resultado-y-pruebas)
+* [Haga click en el Link para ver la página web](#Resultado-y-pruebas)
 * [Autor](#Autor)
-* [ Gracias por visitar mi repositorio 🎁](#Agradecimientos)
+* [Gracias por visitar mi repositorio](#Agradecimientos)
 
-## Descripción 🚀
+## Descripción
 
 <span>_El Encriptador de Texto es un programa basado en "HTML,  CSS y JavaScript" que tiene por objetivo
 convertir el texto que se solicita en el primer recuadro en un texto cambiado y no legible, es decir que
@@ -63,22 +58,22 @@ para proceder a desencriptar, lo que permitirá devolver el texto al código ori
 
 </span>
 
-### Pre-requisitos 📋
+## Pre-requisitos
 
 _Por los momentos posee estilos compatible en su mayor parte sólo con el navegador Chrome.
 
-## :heavy_check_mark:Construido con 🛠️
+## Construido con
 
 * HTML
 * CSS
 * JAVASCRIPT
 * NODE.JS
 
-## Colaboradores 🖇️
+## Colaboradores
 
 (https://github.com/Alejarp78)
 
-## Versionado 📌
+## Versionado
 
 Versión Final 2.1.
 
@@ -97,7 +92,7 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 - | [Jhozmer Ramírez (@Alejarp78)] |
 - [<img src="https://avatars.githubusercontent.com/u/88687677?s=400&u=c3e15a75772d3ffed5d55c17123fae2e51ce81a4&v=4" width=115><br><sub>Jhozmer Ramírez</sub>](https://github.com/Alejarp78) |
   
-## Gracias por visitar mi repositorio 🎁
+## Gracias por visitar mi repositorio
 
 * Comenta a otros sobre este proyecto 📢
 * Deja tu opinión abajo 🤓.
