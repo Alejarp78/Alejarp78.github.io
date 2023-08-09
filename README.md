@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Canuto_Desarrollo_Web" width="220px" height="220px" align="center" border="blue" border-width="2px">
+<h1 align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Canuto_Desarrollo_Web" width="220px" height="220px" align="center" border="2px solid blue">
 
 ## 🚀 Sobre mí
 
@@ -13,13 +13,13 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <h1 align="center" color="#7778c2"><em><b>Encriptador de Texto<b/></em></h1>
 <p align="left" color="#7778c2"> Propuesto por <em>Alura Latam y ORACLE</em> "ONE OracleNextEducation"</p> 
 <br>
-<p align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center" border="blue" border-width="3px"></p>
+<p align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center"  border="3px solid blue"></p>
 <h1 align="center">Canuto-Developer</h1> 
- ####Copyright © 2023 - Jhozmer Ramírez.
+<p font-size="2px">Copyright © 2023 - Jhozmer Ramírez</p>
+ 
 
  https://img.shields.io/badge/:badgeContent?style=plano&logo=twitter&logoColor=blue&labelColor=green&color=brown
-<p align="left"> <a href="[https://twitter.com/alejarp](https://img.shields.io/badge/:badgeContent?style=plano&logo=twitter&logoColor=blue&labelColor=green&color=brown
-)" target="blank"><img src="https://img.shields.io/twitter/follow/alejarp?logo=twitter&style=for-the-badge" alt="alejarp" /></a> </p> 
+<p align="left"> <a href="[https://twitter.com/alejarp](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)" target="blank"><img src="https://img.shields.io/twitter/follow/alejarp?logo=twitter&style=for-the-badge" alt="alejarp" /></a> </p> 
 
 
 ## Authors
@@ -91,5 +91,5 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
   
 ---
 <span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
-####Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.
+###Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.
  
