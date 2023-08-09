@@ -8,7 +8,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 
  HTML, CSS, Javascript...
 
-## Título del Proyecto:
+## Título del Proyecto
 <h1 align="center" color="#7778c2"><em><b>Encriptador de Texto<b/></em></h1>
 <p align="left" color="#7778c2"> Propuesto por <em>Alura Latam y ORACLE</em> "ONE OracleNextEducation"</p> 
 <br>
@@ -17,22 +17,21 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
 <p align="left">GitHub issues: <img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
-![GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
+! [GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
 
-##Índice :bookmark:
-*[Presentacion](#Sobre-mí)
-*[Herramientas utilizadas](#Habilidades-en-este-proyecto)
-*[Titulo](#Título-del-Proyecto)
-*[Indice](#Índice)
-*[Descripcion del proyecto](#Descripción)
-*[Requisito](#Pre-requisitos)
-*[Herramienta Adicional](#Construido-con)
-*[Colaboradores](#Colaboradores)
-*[Version](#Versionado)
-*[Mejoras](#Mejoras)
-*[Resultado](#Resultado-y-pruebas)
-*[Autor](#Autor)
-*[Agradecimiento](#Agradecimientos)
+## Índice :bookmark:
+* [Sobre mí](#Sobre-mí)
+* [Habilidades en este proyecto](#Habilidades-en-este-proyecto)
+* [Título del Proyecto](#Título-del-Proyecto)
+* [Descripción](#Descripción)
+* [Pre-requisitos](#Pre-requisitos)
+* [Construido con](#Construido-con)
+* [Colaboradores](#Colaboradores)
+* [Versionado](#Versionado)
+* [Mejoras](#Mejoras)
+* [Haga click en el Link para ver el resultado y pruebas](#Resultado-y-pruebas)
+* [Autor](#Autor)
+* [Gracias por visitar mi repositorio](#Agradecimientos)
 
 ## Descripción 🚀
 
@@ -91,7 +90,7 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 
 ## Autor
 - | [Jhozmer Ramírez (@Alejarp78)] |
-- [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jhozmer Ramírez</sub>](https://github.com/Alejarp78) |
+- [<img src="https://avatars.githubusercontent.com/u/88687677?s=400&u=c3e15a75772d3ffed5d55c17123fae2e51ce81a4&v=4" width=115><br><sub>Jhozmer Ramírez</sub>](https://github.com/Alejarp78) |
   
 ## Gracias por visitar mi repositorio 🎁
 
