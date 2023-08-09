@@ -13,7 +13,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p align="left" color="#7778c2"> Propuesto por <em>Alura Latam y ORACLE</em> "ONE OracleNextEducation"</p> 
 <br>
 <p align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center"  border="3px solid blue"></p>
-<p align="center"><strong>#Canuto-Developer</strong></p> 
+<p align="center"><strong><h1>Canuto-Developer</h1></strong></p> 
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
 <p align="left"><img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p> 
