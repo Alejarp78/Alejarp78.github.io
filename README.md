@@ -13,8 +13,13 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <h1 align="center" color="#7778c2"><em><b>Encriptador de Texto<b/></em></h1>
 <p align="left" color="#7778c2"> Propuesto por <em>Alura Latam y ORACLE</em> "ONE OracleNextEducation"</p> 
 <br>
-<h1 align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center" border="blue" border-width="3px"></h1>
-<h1 align="center">Canuto-Developer</h1>&nbsp  <p> ©Imagen generada por: Jhozmer Ramírez</p>
+<p align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center" border="blue" border-width="3px"></p>
+<h1 align="center">Canuto-Developer</h1> 
+ ####Copyright © 2023 - Jhozmer Ramírez.
+
+ https://img.shields.io/badge/:badgeContent?style=plano&logo=twitter&logoColor=blue&labelColor=green&color=brown
+<p align="left"> <a href="[https://twitter.com/alejarp](https://img.shields.io/badge/:badgeContent?style=plano&logo=twitter&logoColor=blue&labelColor=green&color=brown
+)" target="blank"><img src="https://img.shields.io/twitter/follow/alejarp?logo=twitter&style=for-the-badge" alt="alejarp" /></a> </p> 
 
 
 ## Authors
@@ -85,5 +90,6 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 
   
 ---
-<span> © [Alejarp78](https://https://github.com/Alejarp78) 😊 </span>
+<span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
+####Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.
  
