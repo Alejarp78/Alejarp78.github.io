@@ -15,11 +15,11 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <br>
 <p align="center"><img src="https://github.com/Alejarp78/Alejarp78/blob/main/Imagenes/Imagen%20Perro%20Pitbull%20con%20las%20patas%20sobre%20el%20teclado%20programando_Canuto-Developer.PNG" alt="Canuto_Desarrollo_Web" max-width="290px" height="270px" align="center"  border="3px solid blue"></p>
 <h1 align="center">Canuto-Developer</h1> 
-<p font-size="2px">Copyright © 2023 - Jhozmer Ramírez</p>
- 
-
- https://img.shields.io/badge/:badgeContent?style=plano&logo=twitter&logoColor=blue&labelColor=green&color=brown
-<p align="left"> <a href="[https://twitter.com/alejarp](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)" target="blank"><img src="https://img.shields.io/twitter/follow/alejarp?logo=twitter&style=for-the-badge" alt="alejarp" /></a> </p> 
+<pre><code>
+ <p>Copyright © 2023 - Jhozmer Ramírez</p>
+ font-size: 3px;
+</code></pre>
+<p align="left"><img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="alejarp" /></p> 
 
 
 ## Authors
