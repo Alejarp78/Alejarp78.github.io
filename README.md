@@ -71,7 +71,7 @@ _Por los momentos posee estilos compatible en su mayor parte sólo con el navega
 
 ## Colaboradores
 
-(https://github.com/Alejarp78)
+[Alejarp78](https://github.com/Alejarp78)
 
 ## Versionado
 
