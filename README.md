@@ -19,9 +19,20 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p align="left">GitHub issues: <img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
 ![GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
 
-## Authors
-
-- [Jhozmer Ramírez (@Alejarp78)](https://github.com/Alejarp78) 
+##Índice :bookmark:
+*[Presentacion](#Sobre-mí)
+*[Herramientas utilizadas](#Habilidades-en-este-proyecto)
+*[Titulo](#Título-del-Proyecto)
+*[Indice](#Índice)
+*[Descripcion del proyecto](#Descripción)
+*[Requisito](#Pre-requisitos)
+*[Herramienta Adicional](#Construido-con)
+*[Colaboradores](#Colaboradores)
+*[Version](#Versionado)
+*[Mejoras](#Mejoras)
+*[Resultado](#Resultado-y-pruebas)
+*[Autor](#Autor)
+*[Agradecimiento](#Agradecimientos)
 
 ## Descripción 🚀
 
@@ -52,17 +63,16 @@ para proceder a desencriptar, lo que permitirá devolver el texto al código ori
 
 _Por los momentos posee estilos compatible en su mayor parte sólo con el navegador Chrome.
 
-## Construido con 🛠️
+## :heavy_check_mark:Construido con 🛠️
 
 * HTML
 * CSS
 * JAVASCRIPT
 * NODE.JS
 
-## Contribuyendo 🖇️
+## Colaboradores 🖇️
 
-(https://https://github.com/Alejarp78)
-
+(https://github.com/Alejarp78)
 
 ## Versionado 📌
 
@@ -79,15 +89,16 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 <p>Este es el link de mi proyecto Encriptador de Texto en Github Pages: "Alejarp78.github.io"</p>
 <span>Haga Click en: <a href="https://alejarp78.github.io/"><u>Encriptador de Texto</u></a></span>
 
-##
-
+## Autor
+- | [Jhozmer Ramírez (@Alejarp78)] |
+- [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jhozmer Ramírez</sub>](https://github.com/Alejarp78) |
+  
 ## Gracias por visitar mi repositorio 🎁
 
 * Comenta a otros sobre este proyecto 📢
 * Deja tu opinión abajo 🤓.
 * Si te gusta sigue mi cuenta. 📌
 
-  
 ---
 <span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
 <p>Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.</p>
