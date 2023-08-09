@@ -16,7 +16,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p align="center">*Canuto-Developer*</p> 
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
-<p align="left"><img src="https://img.shields.io/github/issues/Alejarp78-green" alt="alejarp" /></p> 
+<p align="left"><img src="https://img.shields.io/github/issues/Alejarp78-green" alt="alejarp"></p> 
 
 
 ## Authors
@@ -88,5 +88,5 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
   
 ---
 <span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
-###Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.
+<p>Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.</p>
  
