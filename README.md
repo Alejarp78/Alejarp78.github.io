@@ -16,7 +16,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p align="center">*Canuto-Developer*</p> 
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
-<p align="left"><img src="https://img.shields.io/github/issues/Alejarp78-green" alt="alejarp"></p> 
+<p align="left"><img src="https://img.shields.io/github/issues/Alejarp78" alt="alejarp"></p> 
 
 
 ## Authors
@@ -37,11 +37,11 @@ alerta que indica el número y las letras que deben ser corregidas.
 luego cambia las vocales por palabras y genera un nuevo texto con las que reemplazaron a las vocales.
   
 Los cambios son los siguientes:
-    a = "ai",
-    e = "enter",
-    i = "imes",
-    o = "ober",
-    u = "ufat"
+* a = "ai"
+* e = "enter"
+* i = "imes"
+* o = "ober"
+* u = "ufat"
     
  El programa puede ser reutilizado presionando el botón Copiar para pegarlo nuevamente en el primer recuadro, 
 para proceder a desencriptar, lo que permitirá devolver el texto al código original. 
