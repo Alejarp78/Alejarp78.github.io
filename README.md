@@ -16,7 +16,8 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p align="center"><strong>Canuto-Developer</strong></p> 
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
-<p align="left">[GitHub issues: ]<img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> [GitHub forks: ]<img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78"> [GitHub stars: ]<img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78"> [GitHub License: ]<img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
+<p align="left">GitHub issues: <img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
+![GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
 
 ## Authors
 
