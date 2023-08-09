@@ -17,21 +17,21 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 <p>Copyright © 2023 - Jhozmer Ramírez</p>
 
 <p align="left">GitHub issues: <img src="https://img.shields.io/github/issues/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78"> GitHub License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
-! [GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
+[GitHub Org's stars](https://img.shields.io/github/stars/Alejarp78?style=social)
 
 ## Índice :bookmark:
-* [Sobre mí](#Sobre-mí)
-* [Habilidades en este proyecto](#Habilidades-en-este-proyecto)
-* [Título del Proyecto](#Título-del-Proyecto)
-* [Descripción](#Descripción)
-* [Pre-requisitos](#Pre-requisitos)
-* [Construido con](#Construido-con)
-* [Colaboradores](#Colaboradores)
-* [Versionado](#Versionado)
+* [ 🚀 Sobre mí](#Sobre-mí)
+* [ 🛠 Habilidades en este proyecto](#Habilidades-en-este-proyecto)
+* [ Título del Proyecto](#Título-del-Proyecto)
+* [ Descripción 🚀](#Descripción)
+* [ Pre-requisitos 📋](#Pre-requisitos)
+* [ :heavy_check_mark:Construido con 🛠️](#Construido-con)
+* [ Colaboradores 🖇️](#Colaboradores)
+* [ Versionado 📌](#Versionado)
 * [Mejoras](#Mejoras)
-* [Haga click en el Link para ver el resultado y pruebas](#Resultado-y-pruebas)
+* [ Haga click en el Link para ver la página web](#Resultado-y-pruebas)
 * [Autor](#Autor)
-* [Gracias por visitar mi repositorio](#Agradecimientos)
+* [ Gracias por visitar mi repositorio 🎁](#Agradecimientos)
 
 ## Descripción 🚀
 
@@ -82,7 +82,7 @@ Versión Final 2.1.
 El encriptador de texto posee la identificación de letras no autorizadas como vocales acentuadas y en mayúsculas, además de identificar cononsonantes en mayúsculas. Posee un botón para activar y desactivar el modo oscuro, función muy utilizada hoy día sobre todo en los smartphones.
 
 ### Alejarp78.github.io
-## Haga click en el Link para ver el resultado y pruebas
+## Haga click en el Link para ver la página web
 
 <em>Mi repositorio Personal en Github Pages</em>
 <p>Este es el link de mi proyecto Encriptador de Texto en Github Pages: "Alejarp78.github.io"</p>
