@@ -29,9 +29,9 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 * [Colaboradores](#Colaboradores)
 * [Versionado](#Versionado)
 * [Mejoras](#Mejoras)
-* [Haga click en el Link para ver la página web](#Resultado-y-pruebas)
+* [Haga click en el Link para ver la página web](#Haga-click-en-el-Link-para-ver-la-página-web)
 * [Autor](#Autor)
-* [Gracias por visitar mi repositorio](#Agradecimientos)
+* [Gracias por visitar mi repositorio](#Gracias-por-visitar-mi-repositorio)
 
 ## Descripción
 
@@ -81,7 +81,7 @@ Versión Final 2.1.
 
 El encriptador de texto posee la identificación de letras no autorizadas como vocales acentuadas y en mayúsculas, además de identificar cononsonantes en mayúsculas. Posee un botón para activar y desactivar el modo oscuro, función muy utilizada hoy día sobre todo en los smartphones.
 
-### Alejarp78.github.io
+# Alejarp78.github.io
 ## Haga click en el Link para ver la página web
 
 <em>Mi repositorio Personal en Github Pages</em>
@@ -100,5 +100,5 @@ El encriptador de texto posee la identificación de letras no autorizadas como v
 
 ---
 <span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
-<p>Página generada el 08 de agosto del 2023 por Jhozmer A. Ramírez P. Mérida-Venezuela.</p>
+<p>Página generada el 09 de agosto del 2023 por Jhozmer A. Ramírez P. Versión 1.1, Mérida-Venezuela.</p>
  
