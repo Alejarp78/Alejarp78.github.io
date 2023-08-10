@@ -640,7 +640,8 @@ footer{
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 228px;
+        /* width: 428px; */
+        width: 28px;
         max-width: 100%;
         height: 44px;
         top: 160px;
@@ -650,7 +651,8 @@ footer{
     }
 
     .textarea_Convert{
-        width: 328px;
+        /* width: 428px; */
+        width: 28px;
         max-width: 100%;
         height: 387px;
         top: 270px;
@@ -914,7 +916,7 @@ footer{
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 540px;
+        width: 270px;
         max-width: 100%;
         height: 44px;
         top: 160px;
@@ -924,7 +926,8 @@ footer{
     }
 
     .textarea_Convert{
-        width: 540px;
+        /* width: 540px; */
+        width: 270px;
         max-width: 100%;
         height: 387px;
         top: 270px;
