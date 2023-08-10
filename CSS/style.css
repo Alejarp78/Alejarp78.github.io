@@ -1092,7 +1092,7 @@ footer{
         font-weight: bold;
     }
 
-    /* Estilo dinámico para Boton Copiar */
+    /* Estilo dinámico para Boton Copiar*/
     .botonCopiar:hover{
         transform: scale(1.1);
     }   
