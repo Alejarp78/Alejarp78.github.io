@@ -597,7 +597,7 @@ body{
    
 }
 
-@media screen and (min-device-width: 480.02px) and (max-device-width: 560px){
+@media screen and (min-device-width: 480.02px) and (max-device-width: 620px){
     .container{
         margin: 0;
         padding: 0;
@@ -605,7 +605,7 @@ body{
         max-width: 291px;
         height: 90px;
         top: 30px;
-        left: 240px;
+        left: 290px;
         /* background-color: #02031b; */
     }
 
@@ -746,14 +746,14 @@ body{
 }
 
 /* ********************----------------------------------------------******************** */
-@media screen and (min-device-width: 560.02px) and (max-device-width: 768px) /*and (orientation: landscape)*/{
+@media screen and (min-device-width: 620.02px) and (max-device-width: 768px) /*and (orientation: landscape)*/{
     
     .container{
         position: absolute;
         max-width: 291px;
         height: 90px;
         top: 30px;
-        left: 420px;
+        left: 400px;
         /* background-color: #02031b; */
     }
 

@@ -844,14 +844,14 @@ footer{
     }
 }
 
-@media screen and (min-device-width: 480.02px) and (max-device-width: 560px){
+@media screen and (min-device-width: 480.02px) and (max-device-width: 620px){
     *{
         margin: 0;
         padding: 0;
     }
 
     body, section{
-        width: 560px;
+        width: 620px;
         max-width: 100%;
         height: 1500px;
     }
@@ -870,7 +870,7 @@ footer{
         margin: 0;
         padding: 0;
         top: 80px;
-        width: 560px;
+        width: 620px;
         height: 820px;
         /* background-color: #2c0c50; */
     }
@@ -879,14 +879,14 @@ footer{
         top: 0;
         margin: 0;
         padding: 0;
-        width: 560px;
+        width: 620px;
         height: 820px;
         /* background-color: #4e0c50; */
     }
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 480px;
+        width: 540px;
         height: 44px;
         top: 160px;
         left: 40px;
@@ -895,7 +895,7 @@ footer{
     }
 
     .textarea_Convert{
-        width: 480px;
+        width: 540px;
         height: 387px;
         top: 270px;
         left: 40px;
@@ -931,7 +931,7 @@ footer{
         top: 687px;
         margin: 0;
         padding: 0;
-        width: 560px;
+        width: 620px;
         height: 130px;
         /* background: aqua; */
     }
@@ -948,7 +948,7 @@ footer{
     .botonEncriptar{
         top: 30px;
         left: 40px;
-        width: 230px;
+        width: 260px;
         height: 67px;
         /* margin: 34px 0 0 0; */
         border-radius: 24px;
@@ -963,8 +963,8 @@ footer{
     /* Boton Desencriptar */
     .botonDesencriptar{
         top: 30px;
-        left: 290px;
-        width: 230px;
+        left: 300px;
+        width: 260px;
         height: 67px;
         /* margin: 34px 0 0 0; */
         border-radius: 24px;
@@ -977,7 +977,7 @@ footer{
     }
 
     footer{
-        width: 410px;
+        width: 510px;
         height: 60px;
         left: 60px;
         top: 1390px;
@@ -993,7 +993,7 @@ footer{
         padding: 0;
         top: 950px;
         left: 0;
-        width: 560px;
+        width: 620px;
         height: 420px;
         /* background: #052051; */
     }
@@ -1002,7 +1002,7 @@ footer{
         position: relative;
         top: 1500;
         margin-top: 0;
-        width: 560px;
+        width: 620px;
         height: 420px;
         /* background: #0b3c42; */
     }
@@ -1010,14 +1010,14 @@ footer{
     .span_Copy{
         position: absolute;
         top: 0;
-        width: 560px;
+        width: 620px;
         height: 387px;
         /* background: chartreuse; */
     }
 
     /* Etiqueta Span elemento hijo de la etiqueta Div */
     .span__Copy{
-        width: 460px;
+        width: 520px;
         height: 327px;
         left: 40px;
         top: 0;
@@ -1030,7 +1030,7 @@ footer{
     .box2__FormDes{
         position: absolute;
         left: 114px;
-        width: 332px;
+        width: 292px;
         height: 60px;
         top: 0;
         /* background: deeppink; */
@@ -1041,7 +1041,7 @@ footer{
     /* div del grupo muneco */
     .div_imagenes__grupo{
         position: relative;
-        width: 560px;
+        width: 620px;
         height: 300px;
         right: 0;
         top: 0;
@@ -1051,7 +1051,7 @@ footer{
     .logoMuneco{
         width: 285px;
         height: 120px;
-        margin-left: 139px;
+        margin-left: 168px;
         margin-top: 30px;
     }
 
@@ -1060,7 +1060,7 @@ footer{
         width: 400px;
         height: 46px;
         top: 0;
-        margin-left: 80px;
+        margin-left: 110px;
         font-weight: 200px;
         font-size: 20px;
         line-height: 100%;
@@ -1072,7 +1072,7 @@ footer{
         width: 400px;
         height: 56px;
         top: 30px;
-        margin-left: 80px;
+        margin-left: 110px;
         font-weight: 80px;
         font-size: 18px;
         line-height: 130%;
@@ -1083,7 +1083,7 @@ footer{
 
     /* Boton Copiar Desencriptar */
     .botonCopiar{
-        width: 416px;
+        width: 476px;
         height: 67px;
         left: 72px;
         top: 300px;
@@ -1098,7 +1098,7 @@ footer{
     }   
 }
 
-@media screen and (min-device-width: 560.02px) and (max-device-width: 768px){
+@media screen and (min-device-width: 620.02px) and (max-device-width: 768px){
     *{
         margin: 0;
         padding: 0;
