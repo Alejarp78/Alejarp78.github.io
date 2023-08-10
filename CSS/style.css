@@ -597,11 +597,11 @@ footer{
     }
 
     body, section{
-        width: 768px;
-        height: 1500px;
+        width: 390px;
+        max-width: 100%;
+        height: 1135px;
     }
 
-    
     .logoAlura{
         width: 120px;
         max-width: 100%;
@@ -614,119 +614,105 @@ footer{
     .box1{
         margin: 0;
         padding: 0;
-        top: 80px;
-        width: 768px;
-        height: 820px;
+        top: 40px;
+        width: 390px;
+        height: 700px;
         /* background-color: #2c0c50; */
     }
     
     .box1_Form{
-        top: 0;
-        margin: 0;
         padding: 0;
-        width: 768px;
-        height: 820px;
+        height: 700px;
         /* background-color: #4e0c50; */
     }
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 688px;
-        height: 48px;
-        top: 160px;
-        left: 40px;
-        font-size: 28px;
-        padding-top: 0.6em;
+        width: 358px;
+        height: 40px;
+        top: 152px;
+        left: 16px;
+        font-size: 18px;
+        padding-top: 1.0em;
     }
 
     .textarea_Convert{
-        width: 688px;
-        height: 387px;
-        top: 270px;
-        left: 40px;
-        font-size: 28px;
+        width: 358px;
+        height: 205px;
+        top: 232px;
+        left: 16px;
+        font-size: 21px;
     }
 
     /* Alinear el texto del textarea */
     .textarea_Convert::-webkit-input-placeholder{
-        line-height: 320px;
+        line-height: 170px;
         margin-left: 25px;
         padding-top: 10px;
-        font-size: 32px;
+        font-size: 30px;
     }
 
     .efectoLogoExclamacion{
-        position: absolute;
-        width: 30px;
-        height: 30px;
-        top: 690px;
-        left: 40px;
+        width: 16px;
+        height: 16px;
+        top: 458px;
+        left: 16px;
         border-radius: 36px 36px 36px 36px;
     }
     
     /* Logo de exclamación */
     .LogoExclamacion{
-        width: 30px;
-        height: 30px;
+        width: 16px;
+        height: 16px;
         border-radius: 36px 36px 36px 36px;
     }
 
-    .grupo_botones{
-        position: absolute;
-        top: 687px;
-        margin: 0;
-        padding: 0;
-        width: 768px;
-        height: 130px;
-        /* background: aqua; */
-    }
-
     .titleBotones{
-        top: 0;
-        left: 64px;
-        margin-left: 15px;
+        top: 451px;
+        left: 16px;
+        margin-left: 22px;
         /* margin-top: 8px; */
-        font-size: 22px;
+        font-size: 15px;
     }
 
     /* Boton para Encriptar */
     .botonEncriptar{
-        top: 30px;
-        left: 40px;
-        width: 332px;
+        top: 485px;
+        left: 16px;
+        width: 358px;
         height: 67px;
         /* margin: 34px 0 0 0; */
         border-radius: 24px;
-        font-size: 22px;
+        font-size: 18px;
     }
 
     /* Estilo dinámico del Boton Encriptar */
     .botonEncriptar:hover{
-        transform: scale(1.1);
+        transform: scale(1.06);
     }
 
     /* Boton Desencriptar */
     .botonDesencriptar{
-        top: 30px;
-        left: 392px;
-        width: 332px;
+        top: 572px;
+        left: 16px;
+        width: 358px;
         height: 67px;
         /* margin: 34px 0 0 0; */
         border-radius: 24px;
-        font-size: 22px;
+        font-size: 18px;
     }
 
     /* Estilo dinámico del Boton Desencriptar */
     .botonDesencriptar:hover{
-        transform: scale(1.1);
+        transform: scale(1.06);
     }
 
     footer{
-        width: 650px;
+        width: 320px;
         height: 60px;
-        left: 60px;
-        top: 1390px;
-        font-size: 18px;
+        left: 24px;
+        top: 1055px;
+        font-size: 12px;
         /* background: #2c0c50; */
     }
 
@@ -736,112 +722,108 @@ footer{
     .box2{
         margin: 0;
         padding: 0;
-        top: 950px;
+        top: 740px;
         left: 0;
-        width: 768px;
-        height: 420px;
+        width: 390px;
+        max-width: 100%;
+        height: 292px;
         /* background: #052051; */
     }
 
     .box2_Form{
         position: relative;
-        top: 1500;
+        top: 0;
         margin-top: 0;
-        width: 768px;
-        height: 420px;
+        width: 390px;
+        height: 292px;
         /* background: #0b3c42; */
     }
 
     .span_Copy{
         position: absolute;
         top: 0;
-        width: 768px;
-        height: 387px;
+        width: 390px;
+        height: 200px;
         /* background: chartreuse; */
     }
 
     /* Etiqueta Span elemento hijo de la etiqueta Div */
     .span__Copy{
-        width: 668px;
-        height: 327px;
-        left: 40px;
+        width: 343px;
+        height: 165px;
+        left: 16px;
         top: 0;
-        padding: 60px 0px 0 20px;
+        padding: 30px 0px 0 15px;
         border-radius: 32px;
-        font-size: 28px;
+        font-size: 21px;
     }
 
     /* Titulo del texto Span */
     .box2__FormDes{
-        position: absolute;
-        left: 184px;
-        width: 400px;
-        height: 60px;
+        width: 200px;
+        height: 30px;
         top: 0;
         /* background: deeppink; */
         font-weight: 0px;
-        font-size: 24px;
+        font-size: 20px;
     }
 
     /* div del grupo muneco */
     .div_imagenes__grupo{
         position: relative;
-        width: 768px;
-        height: 300px;
+        width: 390px;
+        height: 200px;
         right: 0;
         top: 0;
         /* background: brown; */
     }
 
     .logoMuneco{
-        width: 285px;
-        height: 120px;
-        margin-left: 241px;
-        margin-top: 30px;
+        width: 190px;
+        height: 80px;
+        margin-left: 90px;
+        margin-top: 20px;
     }
 
     /* Parrafo desencriptar 1 */
     .message1_Copy{
-        width: 600px;
-        height: 46px;
+        width: 337px;
+        height: 36px;
         top: 0;
-        margin-left: 80px;
-        font-weight: 200px;
-        font-size: 22px;
+        margin-left: 20px;
+        font-weight: 100px;
+        font-size: 18px;
         line-height: 100%;
         /* background: blue; */
     }
 
     /* Parrafo desencriptar 2 */
     .message2_Copy{
-        width: 600px;
-        height: 56px;
-        top: 30px;
-        margin-left: 80px;
-        font-weight: 80px;
-        font-size: 20px;
+        width: 337px;
+        height: 36px;
+        top: 0;
+        margin-left: 20px;
+        font-weight: 40px;
+        font-size: 18px;
         line-height: 130%;
         align-self: stretch;
-        /* background: blue; */
-
     }
 
     /* Boton Copiar Desencriptar */
     .botonCopiar{
-        width: 624px;
+        width: 358px;
         height: 67px;
-        left: 72px;
-        top: 300px;
+        left: 16px;
+        top: 225px;
         border-radius: 24px;
-        font-size: 22px;
+        font-size: 18px;
         font-weight: bold;
     }
 
     /* Estilo dinámico para Boton Copiar */
     .botonCopiar:hover{
-        transform: scale(1.1);
+        transform: scale(1.06);
     }
-
 }
 
 @media screen and (min-device-width: 390.02px) and (max-device-width: 480px){
