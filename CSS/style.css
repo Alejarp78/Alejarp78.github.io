@@ -902,6 +902,7 @@ footer{
     /* Este es el Label del textarea*/
     .titleTextarea{
         width: 540px;
+        max-width: 100%;
         height: 44px;
         top: 160px;
         left: 40px;
@@ -911,6 +912,7 @@ footer{
 
     .textarea_Convert{
         width: 540px;
+        max-width: 100%;
         height: 387px;
         top: 270px;
         left: 40px;
@@ -928,6 +930,7 @@ footer{
     .efectoLogoExclamacion{
         position: absolute;
         width: 30px;
+        max-width: 100%;
         height: 30px;
         top: 690px;
         left: 40px;
@@ -937,6 +940,7 @@ footer{
     /* Logo de exclamación */
     .LogoExclamacion{
         width: 30px;
+        max-width: 100%;
         height: 30px;
         border-radius: 36px 36px 36px 36px;
     }
@@ -947,6 +951,7 @@ footer{
         margin: 0;
         padding: 0;
         width: 620px;
+        max-width: 100%;
         max-width: 100%;
         height: 130px;
         /* background: aqua; */
@@ -965,6 +970,7 @@ footer{
         top: 30px;
         left: 40px;
         width: 260px;
+        max-width: 100%;
         height: 67px;
         /* margin: 34px 0 0 0; */
         border-radius: 24px;
@@ -981,6 +987,7 @@ footer{
         top: 30px;
         left: 300px;
         width: 260px;
+        max-width: 100%;
         height: 67px;
         /* margin: 34px 0 0 0; */
         border-radius: 24px;
@@ -994,6 +1001,7 @@ footer{
 
     footer{
         width: 510px;
+        max-width: 100%;
         height: 60px;
         left: 60px;
         top: 1390px;
@@ -1037,6 +1045,7 @@ footer{
     /* Etiqueta Span elemento hijo de la etiqueta Div */
     .span__Copy{
         width: 520px;
+        max-width: 100%;
         height: 327px;
         left: 40px;
         top: 0;
@@ -1050,6 +1059,7 @@ footer{
         position: absolute;
         left: 114px;
         width: 292px;
+        max-width: 100%;
         height: 60px;
         top: 0;
         /* background: deeppink; */
@@ -1070,6 +1080,7 @@ footer{
 
     .logoMuneco{
         width: 285px;
+        max-width: 100%;
         height: 120px;
         margin-left: 168px;
         margin-top: 30px;
@@ -1078,6 +1089,7 @@ footer{
     /* Parrafo desencriptar 1 */
     .message1_Copy{
         width: 400px;
+        max-width: 100%;
         height: 46px;
         top: 0;
         margin-left: 110px;
@@ -1090,6 +1102,7 @@ footer{
     /* Parrafo desencriptar 2 */
     .message2_Copy{
         width: 400px;
+        max-width: 100%;
         height: 56px;
         top: 30px;
         margin-left: 110px;
@@ -1104,6 +1117,7 @@ footer{
     /* Boton Copiar Desencriptar */
     .botonCopiar{
         width: 476px;
+        max-width: 100%;
         height: 67px;
         left: 72px;
         top: 300px;
@@ -1162,7 +1176,7 @@ footer{
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 388px;
+        width: 688px;
         max-width: 100%;
         height: 48px;
         top: 160px;
@@ -1172,7 +1186,7 @@ footer{
     }
 
     .textarea_Convert{
-        width: 388px;
+        width: 688px;
         max-width: 100%;
         height: 387px;
         top: 270px;
