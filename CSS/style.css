@@ -640,7 +640,7 @@ footer{
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 128px;
+        width: 428px;
         height: 44px;
         top: 160px;
         left: 26px;
@@ -1162,7 +1162,7 @@ footer{
 
     /* Este es el Label del textarea*/
     .titleTextarea{
-        width: 688px;
+        width: 388px;
         height: 48px;
         top: 160px;
         left: 40px;
@@ -1171,7 +1171,7 @@ footer{
     }
 
     .textarea_Convert{
-        width: 688px;
+        width: 388px;
         height: 387px;
         top: 270px;
         left: 40px;
