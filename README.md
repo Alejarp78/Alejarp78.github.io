@@ -20,19 +20,19 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
    forks: <img src="https://img.shields.io/github/forks/Alejarp78/Alejarp78.github.io" alt="alejarp78">    stars: <img src="https://img.shields.io/github/stars/Alejarp78/Alejarp78.github.io" alt="alejarp78">    License: <img src="https://img.shields.io/github/license/Alejarp78/Alejarp78.github.io" alt="alejarp78"></p>
 
 ## Índice :bookmark:
-* [Sobre mí](#Sobre-mí)
-* [Habilidades en este proyecto](#Habilidades-en-este-proyecto)
-* [Título del Proyecto](#Título-del-Proyecto)
-* [Descripción](#Descripción)
+* [Sobre mí](# Sobre-mí)
+* [Habilidades en este proyecto](# Habilidades-en-este-proyecto)
+* [Título del Proyecto](# Título-del-Proyecto)
+* [Descripción](# Descripción)
 * [Vídeo](#Vídeo)
-* [Pre-requisitos](#Pre-requisitos)
-* [Construido con](#Construido-con)
-* [Colaboradores](#Colaboradores)
-* [Versionado](#Versionado)
-* [Mejoras](#Mejoras)
-* [Haga click en el Link para ver la página web](#Haga-click-en-el-Link-para-ver-la-página-web)
-* [Autor](#Autor)
-* [Gracias por visitar mi repositorio](#Gracias-por-visitar-mi-repositorio)
+* [Pre-requisitos](# Pre-requisitos)
+* [Construido con](# Construido-con)
+* [Colaboradores](# Colaboradores)
+* [Versionado](# Versionado)
+* [Mejoras](# Mejoras)
+* [Haga click en el Link para ver la página web](# Haga-click-en-el-Link-para-ver-la-página-web)
+* [Autor](# Autor)
+* [Gracias por visitar mi repositorio](# Gracias-por-visitar-mi-repositorio)
 
 ## Descripción
 
@@ -61,9 +61,7 @@ para proceder a desencriptar, lo que permitirá devolver el texto al código ori
 
 ## Vídeo
 
-<p align="center">
- https://github.com/Alejarp78/Alejarp78.github.io/assets/88687677/7d1f8740-11f2-4366-94fe-6ca7552982b2
-</p>
+https://github.com/Alejarp78/Alejarp78.github.io/assets/88687677/53f319f5-acb3-4129-abfa-47c463a6def4
 
 ## Pre-requisitos
 
