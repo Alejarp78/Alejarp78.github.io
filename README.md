@@ -24,6 +24,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 * [Habilidades en este proyecto](#Habilidades-en-este-proyecto)
 * [Título del Proyecto](#Título-del-Proyecto)
 * [Descripción](#Descripción)
+* [Vídeo](#Vídeo)
 * [Pre-requisitos](#Pre-requisitos)
 * [Construido con](#Construido-con)
 * [Colaboradores](#Colaboradores)
@@ -57,6 +58,10 @@ Los cambios son los siguientes:
 para proceder a desencriptar, lo que permitirá devolver el texto al código original. 
 
 </span>
+
+##Vídeo
+
+[Encriptador_de_Texto](https://github.com/Alejarp78/Alejarp78.github.io/blob/main/V%C3%ADdeos/Video%20Encriptador%20de%20Texto.mp4)
 
 ## Pre-requisitos
 
