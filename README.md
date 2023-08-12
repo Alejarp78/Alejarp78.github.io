@@ -30,9 +30,9 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 propuesto por Alura
 * [Colaboradores](#Colaboradores)
 * [Versionado](#Versionado)
 * [Mejoras](#Mejoras)
-* [Haga click en el Link para ver la página web](# Haga-click-en-el-Link-para-ver-la-página-web)
-* [Autor](# Autor)
-* [Gracias por visitar mi repositorio](# Gracias-por-visitar-mi-repositorio)
+* [Haga click en el Link para ver la página web](#Haga-click-en-el-Link-para-ver-la-página-web)
+* [Autor](#Autor)
+* [Gracias por visitar mi repositorio](#Gracias-por-visitar-mi-repositorio)
 
 ## Descripción
 
