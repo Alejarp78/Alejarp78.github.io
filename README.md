@@ -61,9 +61,7 @@ para proceder a desencriptar, lo que permitirá devolver el texto al código ori
 
 ##Vídeo
 
-<p width="480px" height="250px">
- https://github.com/Alejarp78/Alejarp78.github.io/assets/88687677/2e2bf18c-c9ce-4da9-a8c9-710688136aee
-</p>
+https://github.com/Alejarp78/Alejarp78.github.io/assets/88687677/7d1f8740-11f2-4366-94fe-6ca7552982b2
 
 ## Pre-requisitos
 
