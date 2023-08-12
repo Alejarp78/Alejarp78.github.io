@@ -61,7 +61,7 @@ para proceder a desencriptar, lo que permitirá devolver el texto al código ori
 
 ##Vídeo
 
-[Vídeo_Encriptador_de_Texto](https://github.com/Alejarp78/Alejarp78.github.io/blob/main/V%C3%ADdeos/Video%20Encriptador%20de%20Texto.mp4)
+<video src="https://github.com/Alejarp78/Alejarp78.github.io/blob/main/V%C3%ADdeos/Video%20Encriptador%20de%20Texto.mp4" alt="Encriptador_de_Texto">
 
 ## Pre-requisitos
 
