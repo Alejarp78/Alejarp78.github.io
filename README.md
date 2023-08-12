@@ -86,12 +86,12 @@ Versión Final 2.1.
 
 El encriptador de texto posee la identificación de letras no autorizadas como vocales acentuadas y en mayúsculas, además de identificar cononsonantes en mayúsculas. Posee un botón para activar y desactivar el modo oscuro, función muy utilizada hoy día sobre todo en los smartphones.
 
-# Alejarp78.github.io
+Alejarp78.github.io
 ## Haga click en el Link para ver la página web
 
 <em>Mi repositorio Personal en Github Pages</em>
 <p>Este es el link de mi proyecto Encriptador de Texto en Github Pages: "Alejarp78.github.io"</p>
-<span>Haga Click en: <a href="https://alejarp78.github.io/"><u>Encriptador de Texto</u></a></span>
+<span>Haga "Click" sobre el nombre del Proyecto para abrir: <a href="https://alejarp78.github.io/"><u>Encriptador de Texto</u></a></span>
 
 ## Autor
 - | [Jhozmer Ramírez (@Alejarp78)] |
